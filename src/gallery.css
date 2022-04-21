@@ -27,7 +27,7 @@
     }
 }
 
-@media (max-width: 991px){
+@media (max-width: 480px){
     .gallery{
         -webkit-column-count: 1;
         -moz-column-count: 1;
