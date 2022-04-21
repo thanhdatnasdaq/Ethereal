@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ethereal/static/css/main.808778d5.css",
+    "main.js": "/Ethereal/static/js/main.fd6c9e04.js",
+    "static/js/787.6cd2588e.chunk.js": "/Ethereal/static/js/787.6cd2588e.chunk.js",
+    "index.html": "/Ethereal/index.html",
+    "main.808778d5.css.map": "/Ethereal/static/css/main.808778d5.css.map",
+    "main.fd6c9e04.js.map": "/Ethereal/static/js/main.fd6c9e04.js.map",
+    "787.6cd2588e.chunk.js.map": "/Ethereal/static/js/787.6cd2588e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.808778d5.css",
+    "static/js/main.fd6c9e04.js"
+  ]
+}
