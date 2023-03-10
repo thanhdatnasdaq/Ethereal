@@ -138,14 +138,14 @@ const [tempimgSrc, setTempImgSrc] = useState('');
   return (
     <>
     <div className={model? 'model open' : 'model'}>
-        <img src={tempimgSrc} />
+        <img src={tempimgSrc} style={{max-width: 100%, height: auto}}/>
         <CloseIcon onClick={() => setModel(false)}/>
     </div>
     <div className='gallery'>
       {data.map((item, index) =>{
         return (
         <div className='pics' key={index} onClick={() => getImg(item.imgSrc)}>
-          <img src={item.imgSrc} style={{width: '100%'}}/>
+          <img src={item.imgSrc} style={{max-width: '100%'}}/>
         </div>
         );
       })}
