@@ -63,7 +63,7 @@
     transform: scale(1);
 }
 
-.model .img{
+.model.open.img{
     max-width: 100%;
     height: auto;
     display: block;
